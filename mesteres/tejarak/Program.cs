@@ -29,6 +29,19 @@ namespace tejarak
                 int ar = Convert.ToInt32( Console.ReadLine());
                 arak[i] = ar;
             }
+
+            int db = 0;
+
+            for (i = 0; i < n; i++)
+            {
+                if (arak[i] >= also && arak[i] <= felso)
+                {
+                    db++;
+                }
+            }
+
+
+            Console.WriteLine(db);
         }
     }
 }
