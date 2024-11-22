@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\bin\Debug\szamrendszer.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\bin\Debug\szamrendszer.exe
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\bin\Debug\szamrendszer.pdb
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\obj\Debug\szamrendszer.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\obj\Debug\szamrendszer.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\obj\Debug\szamrendszer.exe
+H:\Vezérlési szerkezetek\Ciklusok\szamrendszer\obj\Debug\szamrendszer.pdb

@@ -1,0 +1,7 @@
+H:\2. Programozas tetelek\1-tombok\jegyek\obj\Debug\jegyek.csproj.AssemblyReference.cache
+H:\2. Programozas tetelek\1-tombok\jegyek\obj\Debug\jegyek.csproj.CoreCompileInputs.cache
+H:\2. Programozas tetelek\1-tombok\jegyek\bin\Debug\jegyek.exe.config
+H:\2. Programozas tetelek\1-tombok\jegyek\bin\Debug\jegyek.exe
+H:\2. Programozas tetelek\1-tombok\jegyek\bin\Debug\jegyek.pdb
+H:\2. Programozas tetelek\1-tombok\jegyek\obj\Debug\jegyek.exe
+H:\2. Programozas tetelek\1-tombok\jegyek\obj\Debug\jegyek.pdb

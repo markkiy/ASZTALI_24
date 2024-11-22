@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\bin\Debug\elagazas-viz.exe.config
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\bin\Debug\elagazas-viz.exe
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\bin\Debug\elagazas-viz.pdb
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\obj\Debug\elagazas-viz.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\obj\Debug\elagazas-viz.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\obj\Debug\elagazas-viz.exe
+H:\Vezérlési szerkezetek\Elágazások\elagazas-viz\obj\Debug\elagazas-viz.pdb

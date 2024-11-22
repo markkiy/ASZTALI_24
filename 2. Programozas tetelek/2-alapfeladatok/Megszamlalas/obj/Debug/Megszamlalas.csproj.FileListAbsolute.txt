@@ -1,0 +1,7 @@
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\bin\Debug\Megszamlalas.exe.config
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\bin\Debug\Megszamlalas.exe
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\bin\Debug\Megszamlalas.pdb
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\obj\Debug\Megszamlalas.csproj.AssemblyReference.cache
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\obj\Debug\Megszamlalas.csproj.CoreCompileInputs.cache
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\obj\Debug\Megszamlalas.exe
+H:\2. Programozas tetelek\2-alapfeladatok\Megszamlalas\obj\Debug\Megszamlalas.pdb

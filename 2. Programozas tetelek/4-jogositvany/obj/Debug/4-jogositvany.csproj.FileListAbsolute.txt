@@ -1,0 +1,7 @@
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\bin\Debug\4-jogositvany.exe.config
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\bin\Debug\4-jogositvany.exe
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\bin\Debug\4-jogositvany.pdb
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\obj\Debug\4-jogositvany.csproj.AssemblyReference.cache
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\obj\Debug\4-jogositvany.csproj.CoreCompileInputs.cache
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\obj\Debug\4-jogositvany.exe
+H:\!Asztali valami\2. Programozas tetelek\4-jogositvany\obj\Debug\4-jogositvany.pdb

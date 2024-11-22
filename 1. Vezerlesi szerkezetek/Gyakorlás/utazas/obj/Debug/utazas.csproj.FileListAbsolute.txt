@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\bin\Debug\utazas.exe.config
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\bin\Debug\utazas.exe
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\bin\Debug\utazas.pdb
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\obj\Debug\utazas.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\obj\Debug\utazas.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\obj\Debug\utazas.exe
+H:\Vezérlési szerkezetek\Gyakorlás\utazas\obj\Debug\utazas.pdb

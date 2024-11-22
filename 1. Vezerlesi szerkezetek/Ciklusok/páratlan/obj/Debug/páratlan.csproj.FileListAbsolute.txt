@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\bin\Debug\páratlan.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\bin\Debug\páratlan.exe
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\bin\Debug\páratlan.pdb
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\obj\Debug\páratlan.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\obj\Debug\páratlan.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\obj\Debug\páratlan.exe
+H:\Vezérlési szerkezetek\Ciklusok\páratlan\obj\Debug\páratlan.pdb

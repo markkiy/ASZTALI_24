@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\bin\Debug\osztalyzat.exe.config
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\bin\Debug\osztalyzat.exe
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\bin\Debug\osztalyzat.pdb
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\obj\Debug\osztalyzat.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\obj\Debug\osztalyzat.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\obj\Debug\osztalyzat.exe
+H:\Vezérlési szerkezetek\Elágazások\osztalyzat\obj\Debug\osztalyzat.pdb

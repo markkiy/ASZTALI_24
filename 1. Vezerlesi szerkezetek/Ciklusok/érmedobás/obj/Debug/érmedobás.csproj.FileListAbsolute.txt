@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\bin\Debug\érmedobás.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\bin\Debug\érmedobás.exe
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\bin\Debug\érmedobás.pdb
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\obj\Debug\érmedobás.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\obj\Debug\érmedobás.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\obj\Debug\érmedobás.exe
+H:\Vezérlési szerkezetek\Ciklusok\érmedobás\obj\Debug\érmedobás.pdb

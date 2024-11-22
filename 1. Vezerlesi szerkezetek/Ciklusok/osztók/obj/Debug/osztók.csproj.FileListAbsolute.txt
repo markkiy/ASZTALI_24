@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\osztók\bin\Debug\osztók.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\osztók\bin\Debug\osztók.exe
+H:\Vezérlési szerkezetek\Ciklusok\osztók\bin\Debug\osztók.pdb
+H:\Vezérlési szerkezetek\Ciklusok\osztók\obj\Debug\osztók.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\osztók\obj\Debug\osztók.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\osztók\obj\Debug\osztók.exe
+H:\Vezérlési szerkezetek\Ciklusok\osztók\obj\Debug\osztók.pdb

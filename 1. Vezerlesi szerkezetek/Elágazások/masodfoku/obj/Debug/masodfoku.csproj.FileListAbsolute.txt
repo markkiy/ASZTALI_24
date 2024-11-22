@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\bin\Debug\masodfoku.exe.config
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\bin\Debug\masodfoku.exe
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\bin\Debug\masodfoku.pdb
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\obj\Debug\masodfoku.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\obj\Debug\masodfoku.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\obj\Debug\masodfoku.exe
+H:\Vezérlési szerkezetek\Elágazások\masodfoku\obj\Debug\masodfoku.pdb

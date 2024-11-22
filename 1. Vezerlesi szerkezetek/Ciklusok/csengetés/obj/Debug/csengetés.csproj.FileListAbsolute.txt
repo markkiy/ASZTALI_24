@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\bin\Debug\csengetés.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\bin\Debug\csengetés.exe
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\bin\Debug\csengetés.pdb
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\obj\Debug\csengetés.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\obj\Debug\csengetés.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\obj\Debug\csengetés.exe
+H:\Vezérlési szerkezetek\Ciklusok\csengetés\obj\Debug\csengetés.pdb

@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\bin\Debug\kockadobás.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\bin\Debug\kockadobás.exe
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\bin\Debug\kockadobás.pdb
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\obj\Debug\kockadobás.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\obj\Debug\kockadobás.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\obj\Debug\kockadobás.exe
+H:\Vezérlési szerkezetek\Ciklusok\kockadobás\obj\Debug\kockadobás.pdb

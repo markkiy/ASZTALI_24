@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\bin\Debug\kitevő.exe.config
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\bin\Debug\kitevő.exe
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\bin\Debug\kitevő.pdb
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\obj\Debug\kitevő.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\obj\Debug\kitevő.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\obj\Debug\kitevő.exe
+H:\Vezérlési szerkezetek\Ciklusok\kitevő\obj\Debug\kitevő.pdb

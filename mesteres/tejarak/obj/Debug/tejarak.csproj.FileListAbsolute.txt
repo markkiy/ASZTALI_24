@@ -1,0 +1,7 @@
+H:\!Asztali valami\mesteres\tejarak\bin\Debug\tejarak.exe.config
+H:\!Asztali valami\mesteres\tejarak\bin\Debug\tejarak.exe
+H:\!Asztali valami\mesteres\tejarak\bin\Debug\tejarak.pdb
+H:\!Asztali valami\mesteres\tejarak\obj\Debug\tejarak.csproj.AssemblyReference.cache
+H:\!Asztali valami\mesteres\tejarak\obj\Debug\tejarak.csproj.CoreCompileInputs.cache
+H:\!Asztali valami\mesteres\tejarak\obj\Debug\tejarak.exe
+H:\!Asztali valami\mesteres\tejarak\obj\Debug\tejarak.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Vez\u00E9rl\u00E9si szerkezetek\\El\u00E1gaz\u00E1sok\\elagazas-viz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C347C70A-DC27-48D8-9EE4-664F20BF5453}|elagazas-viz.csproj|h:\\vez\u00E9rl\u00E9si szerkezetek\\el\u00E1gaz\u00E1sok\\elagazas-viz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C347C70A-DC27-48D8-9EE4-664F20BF5453}|elagazas-viz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Vez\u00E9rl\u00E9si szerkezetek\\El\u00E1gaz\u00E1sok\\elagazas-viz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Vez\u00E9rl\u00E9si szerkezetek\\El\u00E1gaz\u00E1sok\\elagazas-viz\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:23:13.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Elágazások\szokoev\bin\Debug\szokoev.exe.config
+H:\Vezérlési szerkezetek\Elágazások\szokoev\bin\Debug\szokoev.exe
+H:\Vezérlési szerkezetek\Elágazások\szokoev\bin\Debug\szokoev.pdb
+H:\Vezérlési szerkezetek\Elágazások\szokoev\obj\Debug\szokoev.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Elágazások\szokoev\obj\Debug\szokoev.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Elágazások\szokoev\obj\Debug\szokoev.exe
+H:\Vezérlési szerkezetek\Elágazások\szokoev\obj\Debug\szokoev.pdb

@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\bin\Debug\HaromKocka.exe.config
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\bin\Debug\HaromKocka.exe
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\bin\Debug\HaromKocka.pdb
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\obj\Debug\HaromKocka.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\obj\Debug\HaromKocka.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\obj\Debug\HaromKocka.exe
+H:\Vezérlési szerkezetek\Gyakorlás\HaromKocka\obj\Debug\HaromKocka.pdb

@@ -1,0 +1,7 @@
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\bin\Debug\gyumolcsok.exe.config
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\bin\Debug\gyumolcsok.exe
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\bin\Debug\gyumolcsok.pdb
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\obj\Debug\gyumolcsok.csproj.AssemblyReference.cache
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\obj\Debug\gyumolcsok.csproj.CoreCompileInputs.cache
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\obj\Debug\gyumolcsok.exe
+H:\2. Programozas tetelek\1-tombok\gyumolcsok\obj\Debug\gyumolcsok.pdb

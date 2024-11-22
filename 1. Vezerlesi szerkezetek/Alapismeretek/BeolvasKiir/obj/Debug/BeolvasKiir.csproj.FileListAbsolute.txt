@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\bin\Debug\BeolvasKiir.exe.config
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\bin\Debug\BeolvasKiir.exe
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\bin\Debug\BeolvasKiir.pdb
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\obj\Debug\BeolvasKiir.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\obj\Debug\BeolvasKiir.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\obj\Debug\BeolvasKiir.exe
+H:\Vezérlési szerkezetek\Alapismeretek\BeolvasKiir\obj\Debug\BeolvasKiir.pdb

@@ -1,0 +1,7 @@
+H:\2. Programozas tetelek\1-tombok\parameter\bin\Debug\parameter.exe.config
+H:\2. Programozas tetelek\1-tombok\parameter\bin\Debug\parameter.exe
+H:\2. Programozas tetelek\1-tombok\parameter\bin\Debug\parameter.pdb
+H:\2. Programozas tetelek\1-tombok\parameter\obj\Debug\parameter.csproj.AssemblyReference.cache
+H:\2. Programozas tetelek\1-tombok\parameter\obj\Debug\parameter.csproj.CoreCompileInputs.cache
+H:\2. Programozas tetelek\1-tombok\parameter\obj\Debug\parameter.exe
+H:\2. Programozas tetelek\1-tombok\parameter\obj\Debug\parameter.pdb

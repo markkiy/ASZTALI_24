@@ -1,0 +1,7 @@
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\bin\Debug\Szamitogep.exe.config
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\bin\Debug\Szamitogep.exe
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\bin\Debug\Szamitogep.pdb
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\obj\Debug\Szamitogep.csproj.AssemblyReference.cache
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\obj\Debug\Szamitogep.csproj.CoreCompileInputs.cache
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\obj\Debug\Szamitogep.exe
+H:\Vezérlési szerkezetek\Elágazások\Szamitogep\obj\Debug\Szamitogep.pdb
