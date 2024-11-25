@@ -127,17 +127,23 @@ namespace _4_jogositvany
             {
                 Console.WriteLine($"Van ilyen ember: {nevek[i]}");
             }
+            else
+            {
+                Console.WriteLine("Nincs ilyen ember!");
+            }
 
 
             double osszeg = 0;
             int db = 0;
 
-            for (i = 0; i <= n-1; i++)
+            for (i = n-1; i >= n-10; i--)
             {
                 osszeg += korok[i];
                 db++;
             }
             Console.WriteLine($"Az utolso 10 embernek az atlag életkora: {(double)osszeg / db}");
+
+
 
             //Console.ReadKey();
         }
