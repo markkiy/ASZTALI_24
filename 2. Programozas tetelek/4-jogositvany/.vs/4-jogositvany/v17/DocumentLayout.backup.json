@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "H:\\!Asztali valami\\2. Programozas tetelek\\4-jogositvany\\Program.cs",
               "RelativeToolTip": "Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAHQAAAAAAAAAAAAgwIoAAAAeAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwH0AAAAVAAAAAAAAAA==",
+>>>>>>> 865baa77da6dfd9b417b77e832ada6d8939aa65c
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:58:08.559Z",
               "EditorCaption": ""
