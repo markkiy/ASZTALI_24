@@ -24,7 +24,16 @@ namespace ConsoleApp1
         
         static int Max(int[] t)
         {
+            int maxe = t[0];
+            for (int i = 0; i < t.Length; i++)
+            {
+                if (maxe < t[i])
+                {
+                    maxe = t[i];
+                }
+            }
 
+            return maxe;
         }
 
 
@@ -39,6 +48,7 @@ namespace ConsoleApp1
             Console.WriteLine(Parose(4));
 
             //F3 - Maximum
+            Console.WriteLine("A legnagyobb érték:");
             Console.WriteLine(Max(new int[] { 4, 7, -3, 12, 7, 14, -1 }));
         }
     }
