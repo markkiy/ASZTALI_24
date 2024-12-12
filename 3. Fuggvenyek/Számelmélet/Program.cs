@@ -70,8 +70,8 @@ namespace Számelmélet
         static int OsztokSzama(int n)
         {
 
-            int db = 0;
-            for (int i = 1; i < n + 1; i++)
+            int db = 1;
+            for (int i = 1; i < n; i++)
             {
                 if (n % i == 0)
                 {
@@ -83,21 +83,23 @@ namespace Számelmélet
             return db;
         }
 
-        static int Legalabb(int n)
+        static int Legalabb(int[] n)
         {
             int i = 0;
-            while (i < n && n > 20)
+            while (i < n.Length && !(OsztokSzama(n[i]) >= 20))
             {
-                i++
+                i++;
             }
-            if (i < n)
+            if (i < n.Length)
             {
-                Console.WriteLine(n);
+
+                return n[i];
             }
             else
             {
-                Console.WriteLine("nincs");
+                return 0;
             }
+            
         } 
 
 
@@ -115,7 +117,9 @@ namespace Számelmélet
             Console.WriteLine(OsztokSzama(360)); // 24
             */
 
-            OsztokSzama(Legalabb(Primszamok()));
+            int sok = Legalabb(new int[] { 6, 1001, 48, 360, 75 });
+
+            Console.WriteLine(sok);
         }
 
     }
